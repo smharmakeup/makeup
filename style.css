@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.nombre{
+	font-family: 'Dancing Script', cursive;
+	}
+
+
+
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+
+	background:rgb(253, 252, 252);
+color: rgb(9, 8, 8)}
+
+
+
+div	{
+	width: 300px;
+}
+
+header{
+	
+	padding: 40Spx;
+	height: 200px;
+	
+}
+header nav	{
+	position: relative;
+	left: -50px;
+	top: -500px;
+	background: rgb(8, 8, 8);
+	width: 100%;
+	
+
+}
+h1{
+
+	position: relative;
+	left: 380px;
+	top:-250px;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 140px;
+
+}
+
+ .derecha{
+	
+	position: relative;
+	left: 1390px;
+	top: -503px;
+	
+	}
+
+li{
+	float: left;
+	padding: 20px;
+	background: rgb(32, 32, 32);
+	width: 30%;
+	background-color: white;
+}
+
+footer{
+	background:rgb(0, 0, 0);
+	padding: 28PX;
+	text-align: center;
+
+	
+}
+
+.piepagina{
+     position: relative;
+	 left: 400px;
+	color: aliceblue;
+}
+
+
+.beba{
+	position: absolute;
+	top: 300px;
+}
+.adeli{
+	position: absolute;
+	left: 1300px;
+	top: 300px;
+}
+h2{
+	position: relative;
+	left:600px;
+	top:15px;
+}
+
+.segunda{
+	position: relative;
+	top: -450;
+}
+.rose2{
+	position: absolute;
+	top: 300px;
+	left: 655px;
+}
+
+.tipos{
+	position: relative;
+	left: -480px;
+	top: 460px;
+	color: rgba(244, 244, 244, 0.846);
+}
+
+.instagram{
+	position: relative;
+	left: -700px;
+	top: 20px;
+
+}
+
+.ubicacion{
+    position: relative;
+	left: -790px;
+	top: 92px;
+}

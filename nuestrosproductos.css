@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script&family=Sacramento&display=swap');
+
+.SmharMakeup{
+    font-family: 'Dancing Script', cursive;
+}
+
+.logoo{
+    height: 150px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.contenedor{
+display: flex;
+overflow: auto;
+scrollbar-width: none;
+padding: 1.0rem 0;
+}
+
+.articulo{
+    position: relative;
+    flex: 0 0 309px;
+    height: 450px;
+    overflow: hidden;
+    margin-left: 1.0rem;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+    
+}
+
+footer{
+    background-color: black;
+    padding: 28px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.SmharMakeup{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+   font-family: 'Dancing Script', cursive;
+    
+}
+
+.tonico{
+    position: relative;
+    left: 330px;
+    top: -480px;
+}
+
+.serum{
+    position: relative;
+    left: 650px;
+    top: -920px;
+
+}
+
+.crema{
+    position: relative;
+    left: 970px;
+    top: -1380px;
+
+}
+
+.primer{
+    position: relative;
+    left: 1190px;
+    top: -1810px;
+
+}
+
+.lim{
+    position: relative;
+    left: 70px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.ton{
+    position: relative;
+    left: 380px;
+    top: -453px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.ser{
+    position: relative;
+    left: 749px;
+    top: -905px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.cre{
+    position: relative;
+    left: 990px;
+    top: -1360px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.pri{
+    position: relative;
+    left: 1300px;
+    top: -1815px;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.producto{
+    position: relative;
+    left: 50px;
+    top: -1800px;
+    font-family:  'Bebas Neue', sans-serif;
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+.parrafo{
+    height: 600px;
+    width: 500px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    background-color: rgb(255, 252, 252);
+    position: relative;
+    top: -1610px;
+
+}
+
+.local{
+    position: relative;
+    left: 500px;
+    top: -2200px;
+
+}
+
+.brochas{
+    position: relative;
+    left: 500px;
+    top: -2200px;
+    
+
+}
+
+.Nosotros{
+    position: relative;
+    left: 719px;
+    top: -1700px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 70px;
+}
+.parrafo2{
+    font-size: 20px;
+    height: 600px;
+    left: 30px;
+    position: relative;
+    top: -2000px;
+}
+.foto{
+    position: relative;
+    top: -2320px;
+    width: 1700px;
+}
